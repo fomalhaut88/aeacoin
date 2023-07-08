@@ -1,0 +1,13 @@
+Charge Sepolia: https://www.infura.io/faucet/sepolia
+Charge Goerli: https://goerlifaucet.com/
+Etherscan: https://goerli.etherscan.io/
+
+
+Compile and deploy:
+
+    truffle compile
+    truffle migrate --network goerli
+
+
+AEAC1 - 0xBC5B8FF104d892EFB2FA1FcD0F8e8C175bd30471
+AEAC2 - 0xABbF0BDdD0c432bDbDEa11cA1F75bd55A8DfAd55
